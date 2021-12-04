@@ -1,15 +1,9 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using exercises;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Exercises;
 
 
 
-
-namespace exercises.Tests
+namespace Exercises.Tests
 {
 
     [TestClass()]
